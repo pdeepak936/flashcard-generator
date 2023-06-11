@@ -1,0 +1,6 @@
+export const ADD_CARD = 'ADD_CARD'
+export const REMOVE_CARD = 'REMOVE_CARD'
+export const LOCAL_CARD = 'LOCAL_CARD'
+export const ADD_GROUP_ID = 'ADD_GROUP_ID'
+export const ADD_CARD_ID = 'ADD_CARD_ID'
+export const ADD_REF = 'ADD_REF'
