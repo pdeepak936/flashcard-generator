@@ -1,3 +1,72 @@
+# Almabetter-Capstone-Project-Flashcard-Generator 
+                
+## The weblink to deployment
+
+  [(https://flashcard-generator-a416a4.netlify.app/)]
+
+## The link to the video demonstration of the project.
+- [video link]- https://drive.google.com/file/d/1ohKsyabeWTIhDdYkvN-YsFE2vldtmxSe/view?usp=sharing
+
+## Run Locally
+
+Clone the project
+
+bash
+  git clone 
+  
+bash
+  npm install
+
+Start the server
+
+bash
+  npm run start
+
+
+## Tech Stack
+- Reactjs( React Router ),
+- Redux & Redux-thunk,
+- TailwindCSS,
+- React-icons-Font-Awesome-5,
+- React Formik & Yup,
+- jspdf
+
+## About The Project (Flashcard )
+We develop this project with Reactjs, which have three pages.
+1) create Flashcard page 
+2) My Flashcard page 
+3) Flashcad Detail page  with  share, download and print button
+
+- create Fashcard page: We created input boxes for the create Flashcard page using Formik, and we utilised Yup for the validation.
+
+- My Flashcard page: We created the My Flashcard UI component specifically for the My Flashcard page, mapped the UI, and inputted data into My Flashcard.
+
+- Flashcard Details page : We designed a share popup slide with the link of the card and button to copy the link. Carousel to display the number of cards and their details.
+
+## How To Use
+1) Launch the flashcard maker by clicking the deployment link
+
+2) Click the "create New" link, complete all the input fields accurately, and then press the "create" button.
+
+3) In order to see Clicking the "My flashcard" link will display all of the flashcards you've recently generated.
+
+4) If you click the "view card" button on the flashcard, the specifics of the flashcard, the number of cards, and a description of each card will be displayed. You can also click the "share" button to copy the link.
+5) You can change card on card detail page by Clickin in "<" or ">" buttton on the bottom of carousel.  
+
+## Features
+
+- Add More Input Box ("+ Add More")
+- Delete button ("FaTrashAlt" Button)
+- Edit Input box ("FaEdit" Button)
+- View cards (Button)
+- Upload Image (Button)
+- Share (Copy Clipboard button)
+
+## 🛠 Skills
+Javascript, HTML, CSS, Reactjs, Redux
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
