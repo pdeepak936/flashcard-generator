@@ -6,6 +6,7 @@
 
 ## The link to the video demonstration of the project.
 - [video link]- https://drive.google.com/file/d/1ohKsyabeWTIhDdYkvN-YsFE2vldtmxSe/view?usp=sharing
+- [youtube Link] - https://youtu.be/g00ZV__Ny80
 
 ## Project Summary Template - Web3
 [https://docs.google.com/document/d/1LlQOM0UUxKwScXecD58_JMp_6asjqWqU/edit?usp=sharing&ouid=112103551009722451561&rtpof=true&sd=true]
